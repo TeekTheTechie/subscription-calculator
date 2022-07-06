@@ -1,0 +1,8 @@
+{
+  "name": "ttt-js-subscription-calculator",
+  "version": "1.0.0",
+  "description": "Javascript subscription calculator project",
+  "main": "index.html",
+  "dependencies": {},
+  "keywords": []
+}
